@@ -22,6 +22,6 @@ If you had more time, what improvements would you make, and in what order of pri
 	If I would have been allowed with extra time, 
 		1. I would have planned to come up with an web application where user can manage their rules
 	       for the stream data and validate the stream data.
-		2. This was a beutifull problem can be solved using Artificial Intelligence technolgies also by training with all such rules.
+		2. This was a beutifull problem that can be solved using Artificial Intelligence technolgies also by training with all such   rules.
 		   if time would have permit me then i would have tried to solve it using Machine Learning algorithms.
 	
