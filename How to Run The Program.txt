@@ -1,0 +1,14 @@
+How to Run the program
+
+Pre-Requisite:
+	Visual Stutio should be installed to run the program
+
+1. Open the github link https://github.com/rahulm6/Csharp-Rule-Engine
+2. Download or clone the project
+3. Open the project in Visual Stutio and right click on the two file raw_data.json and rules.json one by one and open
+   properties window and set :   
+   "Build Action" = "Content"
+   "Copy to Output Directory" = "Copy always"
+4. Build the project
+5. Run the application.
+6. End
